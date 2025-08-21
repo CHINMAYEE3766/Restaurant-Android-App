@@ -1,4 +1,4 @@
-🍴 Restaurant Ordering App  
+# 🍴 Restaurant Ordering App  
 
 A full-stack **Restaurant Ordering Application** built with **Android (Kotlin)** frontend and **Node.js/Express backend** using **MongoDB (MERN)** and **MySQL (MEAN)** support. The app allows users to browse cuisines, view dishes, add to cart, calculate tax (CGST/SGST), and place orders.  
 
